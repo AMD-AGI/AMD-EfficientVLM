@@ -1,4 +1,4 @@
-# Contributing to Gumiho
+# Contributing to EfficientVLM
 Thanks for your interest in contributing.
 
 ## Reporting Issues
